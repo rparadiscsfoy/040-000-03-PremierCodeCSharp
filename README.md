@@ -23,12 +23,12 @@
 
 ![Commit / push](img/vs_premierProg_03.png)
 
-- Si tout s'est bien passé, rendez-vous sur le site GitHub pour valider votre travail dans l'onglet "Actions" (Voir exercice précédent)
+- Si tout s'est bien passé, rendez-vous sur le site GitHub pour valider votre travail dans l'onglet "Actions". Cet onglet contient le résultat d'un test automatique lié à votre projet. Vous devriez voir un crochet vert si tout fonctionne.
 
 ![Validation dans Actions](img/vs_premierProg_04.png)
 
 ![Détail de la validation](img/vs_premierProg_05.png)
 
-**Vous voilà à la fin du laboratoire 12 ! Félicitations, vous avez surmonté beaucoup de potentiels défis pour arriver ici !**
+**Vous voilà à la fin du laboratoire 9 ! Félicitations, vous avez surmonté beaucoup de potentiels défis pour arriver ici !**
 
 [Retour à la page principale](README.md)
